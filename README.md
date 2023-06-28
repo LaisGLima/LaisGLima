@@ -1,9 +1,9 @@
-## Oii!! Bem vindo ao meu GitHub 
+# Oii!! Bem vindo ao meu GitHub 
 
-#### Atualmente estou cursando Ciências Da Computação, dedicada a aprimorar meus conhecimentos em:
-- #### Python
-- #### Frontend
-- #### Backend
+### Atualmente estou cursando Ciências Da Computação, dedicada a aprimorar meus conhecimentos em:
+- ### Python
+- ### Frontend
+- ### Backend
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisGlima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
