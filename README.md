@@ -1,13 +1,13 @@
 ## Oii!! Bem vindo ao meu GitHub 
 
-Atualmente estou cursando Ciências Da Computação, dedicada a aprimorar meus conhecimentos em:
-- Python
-- Frontend
-- Backend
+#### Atualmente estou cursando Ciências Da Computação, dedicada a aprimorar meus conhecimentos em:
+- #### Python
+- #### Frontend
+- #### Backend
 
 <div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LaisGlima&show_icons=true&theme=radical&include_all_commits=true&count_ptivate=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGlima&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisGlima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGlima&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div>
