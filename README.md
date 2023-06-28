@@ -2,6 +2,7 @@
 
 ### Atualmente estou cursando Ciências Da Computação, dedicada a aprimorar meus conhecimentos em:
 - ### Python
+- ### SQL
 - ### Frontend
 - ### Backend
 
