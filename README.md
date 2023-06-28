@@ -1,16 +1,16 @@
-### Hi there 👋
+## Oii!! Bem vindo ao meu GitHub 
 
-<!--
-**LaisGLima/LaisGLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou cursando Ciências Da Computação, dedicada a aprimorar meus conhecimentos em:
+- Python
+- Frontend
+- Backend
 
-Here are some ideas to get you started:
+<div>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LaisGlima&show_icons=true&theme=radical&include_all_commits=true&count_ptivate=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGlima&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="mailto:laislima049@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/la%C3%ADs-guimar%C3%A3es-lima-8aa21b232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+</div>  
