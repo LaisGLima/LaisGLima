@@ -1,10 +1,30 @@
-# Oii!! Bem vindo ao meu GitHub 
+# 👋 Olá, eu sou a Laís Guimarães!
 
-### Atualmente estou cursando Ciências Da Computação, dedicada a aprimorar meus conhecimentos em:
-- ### Python
-- ### SQL
-- ### Frontend
-- ### Backend
+🎓 Graduando em Ciência da Computação 
+💻 Desenvolvedora Front-end Júnior | UI/UX Designer  
+🎨 Designer Gráfico Freelancer  
+📍 Fortaleza - CE | 🇧🇷 Brasil  
+
+---
+
+## 📫 Contato
+
+📧 [Email](mailto:laisglimati@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/lais-lima-ti/)  
+💬 [WhatsApp](https://wa.me/5585985297269)
+
+---
+
+## 🚀 Sobre Mim
+
+Sou apaixonada por tecnologia, design e interfaces criativas. Atualmente trabalho como **freelancer em design gráfico** e **desenvolvimento web**, criando soluções visuais e funcionais para clientes de forma remota.
+
+Tenho experiência com:
+
+- Criação de sites responsivos com **HTML**, **CSS** e **JavaScript**
+- Interfaces android com **React**
+- Prototipação e identidade visual com **Figma**, **Photoshop** e **Canva**
+- Projetos acadêmicos com **Python**, **Java**, **SQL** e **C**
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGlima&layout=compact&langs_count=16&theme=radical"/>
