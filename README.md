@@ -1,17 +1,15 @@
-# 👋 Olá, eu sou a Laís Guimarães!
+<div>
+  <a href="mailto:laisglimati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="(https://www.linkedin.com/in/lais-lima-ti/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+  <a href="https://wa.me/5585985297269" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+
+# 👋 Olá, eu sou a Laís Guimarães!  
 
 🎓 Graduando em Ciência da Computação 
 💻 Desenvolvedora Front-end Júnior | UI/UX Designer  
 🎨 Designer Gráfico Freelancer  
 📍 Fortaleza - CE | 🇧🇷 Brasil  
-
----
-
-## 📫 Contato
-
-📧 [Email](mailto:laisglimati@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/lais-lima-ti/)  
-💬 [WhatsApp](https://wa.me/5585985297269)
 
 ---
 
@@ -26,11 +24,8 @@ Tenho experiência com:
 - Prototipação e identidade visual com **Figma**, **Photoshop** e **Canva**
 - Projetos acadêmicos com **Python**, **Java**, **SQL** e **C**
 
+---
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGlima&layout=compact&langs_count=16&theme=radical"/>
 </div>
-
-<div>
-  <a href="mailto:laislima049@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/la%C3%ADs-guimar%C3%A3es-lima-8aa21b232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-</div>  
